@@ -6,5 +6,5 @@ This project created by Subhas Pramanik
 
 Instruction for running this project
 
-Frontend - npm run dev
-Backend - npm run dev
+Frontend - ( npm run dev )
+Backend - ( npm run dev )
