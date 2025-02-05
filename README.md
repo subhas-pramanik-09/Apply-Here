@@ -23,6 +23,8 @@ This project created by Subhas Pramanik
 2. ``` npm install ``` 
 3. ``` npm run dev ```
 
+Subhas Pramanik 
+
 ## Screenshots ##
 ![Screenshot 2025-02-06 004618](https://github.com/user-attachments/assets/20208381-3858-453e-991b-3c430572388f)
 ![Screenshot 2025-02-06 003129](https://github.com/user-attachments/assets/0e61ced3-9921-439f-b3f3-53ad0b3a8915)
